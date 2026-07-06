@@ -12,6 +12,7 @@ This repository contains the projects, assignments, and practical work completed
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Machine Learning
+- Power BI Dashboards & Reports
 - Assignments & Practice Exercises
 - Mini Projects
 
